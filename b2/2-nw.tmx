@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
  <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
-  <image source="..\RPG Graphics Pack - Tiles - Town v1.1\RPG Graphics Pack - Tiles - Town\town_A.png" width="208" height="256"/>
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
  </tileset>
  <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
-  <image source="..\RPG Graphics Pack - Tiles - Town v1.1\RPG Graphics Pack - Tiles - Town\town_B.png" width="256" height="592"/>
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
  </tileset>
  <imagelayer name="Image Layer 1">
   <image source="nw.jpg"/>
  </imagelayer>
  <layer name="grass" width="45" height="30">
   <data encoding="base64" compression="zlib">
-   eJzFl2FugzAMhXMaegD40Q3+dh1XWA+w3f8ECxKWXp+enYSRLtJTaRLgi+PYZkgpDaRL1riLx2ycf1sbPuu66y3rPWsW/5esz6wV7lNi/jE9s+K9R5i3501ZN8GtmO87t713Atl/5rrA2Jj+xmw2mBy+a9L2X+A+XLdxM6f1s18cYcamuG5J238GVvQDtrfH2pPZWBU377/tu2KNrnswb7wfwG1z0MboI+gzOK7OqGf7WqmYYb6xMd8DZowNxszxArmRb6QxXK8XKzHWYbxAVotvOGdKZTtfaM5E7/XE6/X2BHlKvLNgVn6h7IlzVfz24o7aJzxjnj+Yny+CjX2CObw1qf1HTuU7do1nrMS8Ovby7GHX0bqifK/W4OWUJejn9/PzeK+RD5vyryjfo92VD69OPzNP6Xn/OW5zrGPm6Cxivuec69nTfAGlmKO8zcKmzqPyOdXn2Xl1+lvjP/p3j6ZqO94HFXtLeiWz8htkqNlf7wye1TjWKebWOofjXq2OrJFrDvWdUtNUfKk9f63tLDsjc20Nd7adFYNiiepOlXt6nlmuDzFHed8l3i+yqlzag5nzlfoe8JiZW629BzP3c10Q2R/XhnXHfzBjbRDV7ugL7B+vYi7Ve+z/A83tzezliKiPx9TajjB/7XoUmPG9NTGXOb1vl6PMjwKzl7Mitea/FubvrJ9dXvsFT+C32A==
+   eJzFl01uhDAMhaOeoieA7sli2mE7nXKFzgHa+5+gQcLSm9dnJ1CYWrKAhJ/PjmObLqXUkfZFh0V5zub5uFbwXadFX4u+FT2L67HoR9EJnlPK/EO6Z8VntzDP78tFL4JbMV8XbvtuBrVr5uphbkh/YzYfZIfvlLT/R3gO7TZu5rRxjostzCiK65K0/8/AinHA/vZYj2Q2VsXN62/rrlij8yOYZ9534LZ70McYIxgzOK/2qOf7VlU5w2JjZr4GzJgbjJnzBXIj30BzaK+XKzHXYb5AVstveE9OdT/3dE+m73rK9nprgjw13rNgVnGh/In3qvzt5R21TrjHvHiwOB8FG8cEc3g2qfVHThU7do57rMY8Of7y/GHnkV1RvVc2eDVlDMb5+/w+XmvkQ1HxFdV79LuK4ckZZ+ac7tef8zbnOmaO9iLWe665nj8tFlAVc1S3WVHUflQxp8Y8P0/O+Nr8j/F9hKjejtdB5d6aPpJZxQ0ytKyvtwf3Es51inltn8N5r1W32Mg9h/pPaRGVX1r331rZy8/I3NrDKT8/P/1+N495flYMiiXqO1Xtqe3ZF8GsxpRwf4g1yvsv8Y7IqmrpXqLqKfbQypfqyNzK9iOYeZz7gsj/aBv2Hf/BjL1B1LtjLHB8PIq51u9x/Hd079HMXo2IxnhO2baF+XPRW4UZv9uSc5nT+3fZynyrMHs1K9K19W8N81fR70U9+QGMJbhg
   </data>
  </layer>
  <layer name="road" width="45" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlUEOgCAMBPmueFfv6r+tN+LBdpNSSrKTzH0CGyiFEEIIISQvi1jFdXQIwCbu4jE6BGDm5tfqYMTG2mYPI+7rFC/ADM0olnuJ3IkFZEtZzrxt1vaTrfmvR3uLojeDNmfYjKVZe4vuzo1fZv432dwXNsfg1fwAj4VLKA==
+   eJztljEOgCAMReFiehBOoO7qrt7bsqHBtDVYSuxLfhhYXuCn4JxhGIZhGIZeBsgImWqLMJghC2StLcKgZeeYsUAkOpY6l4jEfW2QnRENzlwo9yLZEwqcLmk589QZ64825+gTMvvB4bNIujPYPO893h/p86c4Y7PoEPBMoThj5Dr1JW/f+s5fV0la/p88zY070j3I8WfnE36cT5k=
   </data>
  </layer>
  <layer name="buildings" width="45" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0jsKwCAQhOHV+yQ3MDlB4j3yuH/rgiuEYMBKi/wfTOUUg6wIAAAAAAAA/mJ3IrcmaBbNatlcfiupdUa5bEvZGG3PoZm8yOy/OyMF23i6vK+2p6XT0/sOYmVPS6en5x2Uf2zpJDsfErs=
+   eJztlsEOwUAQhnfrgCOeozxBeQL1AN4AfU4cccARBxxxwM0vmUazsWttmu0m3S/5kjlM0r+TyWQZy4cjZ+wEz1yvdoE7cjzgk+vVUziD8wLzVwPGarAe6NVrZN3ArSMzL8OeuMC/e+LxeDwej8eMBVzClaJ2jR3cw4Oido0LvMKbonYNjndhACtcXrtGA5masMXldZkJ8f9twY7BTGzehwj5uoIm2LwPeWW2eR9kmcV9+bU/Nu9DjG8k/JO9R8aCCeV894TUk8XmfZhQ3j5lG1CeERySsp4iiSjjmPJ9y6PTY5N0fnFmjiY9NsnuQTpHnZ4X6+lt7Q==
+  </data>
+ </layer>
+ <layer name="2nd story buildings" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl0EOwiAQRQc2xltwAXWlrowL3asH0BvoNdUTqCfQnkDdOSQlIVhhbGqZIC/5yWQg6SuENgD8L3sBcMAcBa3mwAk9zpiLoNUcuKLHDVMIWs2BO3o8ME9BqznQkQAK05W0WqNkXOdUGWJGZcaRXQy2k+1l+jMr8xiCDtpr5fQW8O7KxbnK16C9q5w/zW8Dn6/B9Y7p+w3aewnxfNf4Xd3IcM/XD401zRafs5Phnq8fGsu0u6dNkcqe1jmDsalzBjMZHz28s/QxAyZ3FwqT0nWamHPei9+gJP/7LcWP+ztw/ndqzPrZ6+j+O905L2CURw8=
+  </data>
+ </layer>
+ <layer name="furniture" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl8ENgzAMRZGnYAQ26QDdgRUL7QIFlqpziIJQaBIUyBPKkywC8uHH/pjQNJXKPXmKW7cSzqHRgbWFiK1rL+6aui6F9dJLXFDw+dw8I3tprc34Zqt3r85vvR80Ro1Pxv1taxjyckp9Z837akwaS0bNqf39lx/7blFmJ0VHTq7YE7FuRE2V+0L2G1kblYeE4yh7/xAU7Hfb+MZ6h3TuW+uicrTHJb0R02Nf3a/0Br3vZ0KfGz5Ic6MEP+uuGso=
   </data>
  </layer>
 </map>
