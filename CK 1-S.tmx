@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+  <terraintypes>
+   <terrain name="BrickRoad" tile="-1"/>
+   <terrain name="Cobble Grass Path" tile="-1"/>
+   <terrain name="Cobble Road" tile="-1"/>
+   <terrain name="Dirt Grass Path" tile="-1"/>
+  </terraintypes>
+  <tile id="0" terrain=",,,1"/>
+  <tile id="1" terrain=",,1,1"/>
+  <tile id="2" terrain=",,1,"/>
+  <tile id="3" terrain="1,1,1,"/>
+  <tile id="4" terrain="1,1,,1"/>
+  <tile id="13" terrain=",1,,1"/>
+  <tile id="14" terrain="1,1,1,1"/>
+  <tile id="15" terrain="1,,1,"/>
+  <tile id="16" terrain="1,,1,1"/>
+  <tile id="17" terrain=",1,1,1"/>
+  <tile id="26" terrain=",1,,"/>
+  <tile id="27" terrain="1,1,,"/>
+  <tile id="28" terrain="1,,,"/>
+  <tile id="52" terrain=",,,3"/>
+  <tile id="53" terrain=",,3,3"/>
+  <tile id="54" terrain=",,3,"/>
+  <tile id="55" terrain="3,3,3,"/>
+  <tile id="56" terrain="3,3,,3"/>
+  <tile id="65" terrain=",3,,3"/>
+  <tile id="66" terrain="3,3,3,3"/>
+  <tile id="67" terrain="3,,3,"/>
+  <tile id="68" terrain="3,,3,3"/>
+  <tile id="69" terrain=",3,3,3"/>
+  <tile id="78" terrain=",3,,"/>
+  <tile id="79" terrain="3,3,,"/>
+  <tile id="80" terrain="3,,,"/>
+  <tile id="104" terrain=",,,0"/>
+  <tile id="105" terrain=",,0,0"/>
+  <tile id="106" terrain=",,0,"/>
+  <tile id="107" terrain="0,0,0,"/>
+  <tile id="108" terrain="0,0,,0"/>
+  <tile id="117" terrain=",0,,0"/>
+  <tile id="118" terrain="0,0,0,0"/>
+  <tile id="119" terrain="0,,0,"/>
+  <tile id="120" terrain="0,,0,0"/>
+  <tile id="121" terrain=",0,0,0"/>
+  <tile id="130" terrain=",0,,"/>
+  <tile id="131" terrain="0,0,,"/>
+  <tile id="132" terrain="0,,,"/>
+  <tile id="156" terrain=",,,2"/>
+  <tile id="157" terrain=",,2,2"/>
+  <tile id="158" terrain=",,2,"/>
+  <tile id="159" terrain="2,2,2,"/>
+  <tile id="160" terrain="2,2,,2"/>
+  <tile id="169" terrain=",2,,2"/>
+  <tile id="170" terrain="2,2,2,2"/>
+  <tile id="171" terrain="2,,2,"/>
+  <tile id="172" terrain="2,,2,2"/>
+  <tile id="173" terrain=",2,2,2"/>
+  <tile id="182" terrain=",2,,"/>
+  <tile id="183" terrain="2,2,,"/>
+  <tile id="184" terrain="2,,,"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <layer name="Grass" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6FzU/8Op2F/SFg1VVVVVVVVVVVV3w8KtG2w
+  </data>
+ </layer>
+ <imagelayer name="Lot Usage" visible="0" opacity="0.25">
+  <image source="1-S-Lots.PNG"/>
+ </imagelayer>
+ <imagelayer name="Density Image" visible="0" opacity="0.7">
+  <image source="1-S-Density.PNG"/>
+ </imagelayer>
+ <layer name="Roads" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmMsOwiAQRdHGrda1+oG+trZ1q/63NJVIKAxQOnWoc5O7osPl0OkjCBGn6mNoHNJNm6OOzP6FmLc/Dol5aYt5++OQmJe2cuc9Sp8irNYKjUP1d22OJjI71Wcjf+6uCaxhat5noFWN77orAS6IN1Sqxif9fUTNzMu8zMu8KbwXEf6NiLHtO0GBF+uf0rYO5sXJYV7mnWIdetZCeildIORQ5F1Lb6RLhBzKvFvR3WefXX2QC+9OeiU65hCrfTG5c+Ft1TLvPTb3RO+HwpFDlTdEak9svVA6cnLmVbL1/5x5W5n9f3DkzIU3NAcy1pms7dyVAu+Ubv6Mt2LeUXmHnF1gn19j8g55P2D3x9hi3uH1OfA+xPdZfCXWY/gNfQIInw==
+  </data>
+ </layer>
+ <layer name="Plants" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmE0LwjAMhkd/gjDwLAy8iuJdBT3rQU8KouJJQfz6+65gcZSktLPtmq4PjLlQNG/eNmvNMvrk7Pe5y+AxWJwiRUVLH9GFxakC+ReTpzKQf7F5WpcD8TrI85Y/5xoxiBGBWoh5K/Tw5wKJTQno0aUAtECxRCKR2BPrDXKvfhrkfySmtcqLcO46zCPXp0LM4ZhrcFZoW3jQnTM3dxvIa3tm4bvFns/23TWPiNeAb6B3+7aM7SrxsUa9dc6+/Ex48uDd/fsbsg6MSznmWiOvZWDzENNxQ/J8G+Y/BMaLc/4qsFqo0Jmroe0Dec6qvP/d+9lal4OG6jYJzC8b6PYv3XGh/D+5RvKQ+9eGwWPr9us20GFml02a2D/3mNllkyb2z6b+uvTbB6b+uvTbB8nf5G/yN/lLhbb52xY+PpItrg==
+  </data>
+ </layer>
+ <layer name="Building3" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzjsSAUEURuE7k2AfHiPHEmYJHmXBWAFWgBUgcxJVk+kJbuR8VSfr/rsjfjtUEUc6VQWHe5qx2dC853aT8JevM9sXuia8MWZzQlNqC+veyXBj906PhP0Fm0ta0bqw7p0MT3Zf9E7Y37C5pR3tC8s2qCOGNKrz35IkSZIkSZIkSZIkSfo3HycCGEY=
+  </data>
+ </layer>
+ <layer name="Building1" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmD8uBGEYh793G/YEKEjYAiUKlEuBEifAIZYT4AQ4AU7AngAn2N0C5VKgROHP00zxFV8yM5kx2c/vSZ7k17xv3l8yk0mmZc7t4wG2AjkmDulzhMcWzjd4i3cldJ9m5wzOZtidZybhhJlTPLNw7mAXeyX0XWTnEi5n2J1nJuGcmQu8tHDu4xM+l9B3jZ3ruJFhd56ZhCtmrrFt4fyOH/gZ2bscYqjm3DDWa1VfIgadcZ6hCT1HQpTCJN+kKWyYn2Nljm7zuGB+jpUm3VZw1fwcK5t028Jt83Os7NBtF/fMz0IIIYQQQgghhBBCDCL3+JDSx4puLJIXfE3pW0U3Fsl/6/uF3yn9qejGIhkx50ZTOvYH/7F/AaBhX3c=
+  </data>
+ </layer>
+ <layer name="Building2" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztlbsuBVEUQGffBr+AxpsC8ewQJDoEiUdoUHj2KFByC5QoUKL3/AJ8Ab4AX4DOmrjJPWdyIuPEDRl7JSv7cWbfe/Y0EwR+rEoQrEVcl8+zWmKdw3rx/LM/wBZ33464k9mnjdjusEP3/TWWuMsyroidh9wQb/HOuO9P7VtFrxprvvEufGaibDC7iWmx85B74gM+5mDfcnoVWIk9MTVnfNlldg/3xc5DnojP+JKDfZvptWArDsfUnPHlmNkTPBU7D3klvuG78fsH5IcRjzLnvcQ+h/2O+43QG8UxnIipOePLJbNXeC12HpKXCoJ8LEhlnz/j7BwvxM5DColFko3FRowyQ28W53Aex79wARfFnlEURVH+LyV8B0qxTNx10mhgr0ZsEnedNDrZqwu7xV0njQH2GsQhcddJY5K9pnBa3LWiKIqiKIqiKIqiKIqiKEocPgAy9WJA
+  </data>
+ </layer>
+ <layer name="Windows" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1s0NwjAMBeAkF2AFJJiEERiBEdgTmACYAJgAuGGJHzlVHlT0EMd6n2TVR/c5ahPC0yqFD9R7sk6/e2ta3MViwMyWd4EsK82sc+5mPmQHVumcu5nX2gH5M5OzNH+dpyl4EhH1UfoXt3iv66v0L27xXvcPz3stee/V433zG9437dvEELZSu5j3Xu3l3Q5Sx5j3GsqkxXxOMutZ6hLzXkOZoHwsu8qsN6l7zHsNZYLysWwk39ix1CTlvYYyQfm0DmWC8iEiIiIiIiKiOh4G3z32
+  </data>
+ </layer>
+</map>
