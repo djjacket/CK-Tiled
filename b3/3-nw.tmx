@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <imagelayer name="Image Layer 1">
+  <image source="3-NW.png"/>
+ </imagelayer>
+ <layer name="roads" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlbEOgDAIRPld667u6n+Lg4kDJUULbZO75I3k3lAoEYIgSJ1MTGLmgXoXZmW2qka+vXCO6YVzTC+cY3rhbO+9SQLaX9ODs4Tm04PzIXAWzOI9+/aO7JzbXy9Kdq3EuQVfnHeS99bK28Myp90H77Taiz+Bc0zgHJPn/tS8AxeboGiY
+  </data>
+ </layer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt17EJACAMRNFMkx3cfzFbmwOLJEb9H672CTa6mXnAVCNhEV7MdWY1zO+Z17Lvpc7FjBkzZsyYo8wqzJhvfM+/mU+FuaaMP87OOhgw9xzme80TlITHDw==
+  </data>
+ </layer>
+ <layer name="houses" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0tEJgEAMA9BWJ1D3H0qdQJ1AXcD8ntCPcl4pmAeBfBYakW+cyIXcr97CjCzIWtlVRTqk17K3sCE7clT2AfeNyKRlb8H6qbdHsn7q7ZGsn3p7JGufmWXYp1eGfXpl2KcX9xyDe47BPcfgnmNwzzG4ZyIi+rMHkRtlWQ==
+  </data>
+ </layer>
+ <layer name="roofs on left" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztllEOgjAQRJeWK3gEjwN+8akXMHpX5ASgFwA9gGP8I2wsuAUx85JJmk0zNNMJqQgh8SmcyDF567VeA3OduYQuUNVbT2GNOf8iGbLLoZ2LN/tXxvR5jzwOA5lsAnPS9mm+Fpzgex7w3gZ+T9un+VoQK485c9buusa8ga7QLaBLY3P+ps/aXbeYd9AdegR0aYk+90m8iIM8lHo73ynwv/HZV8PyvUFs4HuDEEIIWZ4nI3g3gQ==
+  </data>
+ </layer>
+</map>

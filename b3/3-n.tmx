@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+ </tileset>
+ <imagelayer name="Image Layer 1">
+  <image source="3-N.png"/>
+ </imagelayer>
+ <layer name="street" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKgDAQBdFcV+3VXg/u1iEohN2xmYHfhkcgkNZyWmJrty3p7Kr22NHt/FX0nWYmzUyamTQzaWbSzESaR3/ImfXeSvPofrJWZb5id8JIc1a+QSbNTJqZNDNpZtL83gOQH2x5
+  </data>
+ </layer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0rEJADAIRUHHcv/JMkFSKSi5D6+VK8yIyIJuq7jdFTMzMzPzzJiZmf8xd495r3njPzMzMzMzM0+L+d0BYZ70IQ==
+  </data>
+ </layer>
+</map>

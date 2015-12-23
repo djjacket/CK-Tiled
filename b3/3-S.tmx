@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <imagelayer name="Image Layer 1" x="3" y="3" visible="0">
+  <image source="3-S.png"/>
+ </imagelayer>
+ <layer name="roads" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztljEOgDAMA/NOfgDslB34N6lg6BIm22LwSScxpSegaiMwbOmUttf+vINms3CzBjdrUDbP6QKwFSJmj67xvJ9qvT/av92RngCrNRCzR6/A4T2owc0a3PwN8kxRNSPPFFUz8kzx/8zHzRqqvcy4i7KbGXdRdrPvoljcrMHNGpTNNxyYuwM=
+  </data>
+ </layer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlk0KgzAQhWNP4QnERenGXXsTD9L27m66aMQgkzjR95LpzwcPJUj4kOfEzjnXARJjIAThOzu3p8U1vNeQclyDdO4Dzz7TWcPZ7zkCkuoG6p3EeqhdX/umumHFObYudYPt/Oe7eQTRwJ7PN0Xu3vfp97o0y3VOuM6ez3ucNRkzns39lhnOiPME3Y3a89m6s8Qe56l5p8SZUqMbR6nRDQYI562uHJl1iG5cFUE6I7pR2lniE5011PxHKsWvO0tzg9FD9tyw7ixh3XmrGyhKdsOiswTD+QU5cKQg
+  </data>
+ </layer>
+ <layer name="houses" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmO0NgjAQhnv8UXcRmECZQNnDjxHUCdQJ1D3U/+oE6iTqP18CxKZCwkepZ9InecK1IfRyKdekQjTLjISYwwXpi5tmgzW2cEf64hM8w4uSf9n5PPZ4r+sIcSR98RXe4F3Joey8SR5Y+wlfVG/eJC3Uuw07Tr15i8XyjUuxHvSTpzz2f/jv59Gj2D4Mkqc8DgycKVVyHsAhDHNy5namRPmN4BhOcnLmdqakNU6dZuTM7UyJauzi254T11ndKwHDf1BF3Sv/kLO6V0KGfUNF3itprbn1jSJw6xtF4NY3LHzg3jeysH3DDCb7xr/cI8kssd4KrqlebBJdd18mie6vDvS5y6oavwFp8sDS
+  </data>
+ </layer>
+ <layer name="flowers" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt10sKwCAMRVHp2rr/NXVcaSVponnSeyaCwRD8oa0BOs7j3nrGPPWPYt58fcybwzo2W6ROSw4gi/I++3KXrKRSB4A6o3ePqh1rno35+Le3M8G+0FX1x4vi/t2T52/P+tpdPwgJkw==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <imagelayer name="Image Layer 1" visible="0">
+  <image source="3-E.png"/>
+ </imagelayer>
+ <layer name="ground" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl8sKgCAQRf3dXtusttV/NwtnEzoU42PAe+Gs5OANVCbn4hmIkZgS61JauSvhiQ0uXLhFXb6nb47g7ol1iRyu1Jm/yxpS55O4IizBnRPrpeB9a59JTVrdI03QuU7QuU567eyzNvq+LzqXTa/n2WLnErOoBsyi/+dJjWvx/wguXLhy+D25DboPwQLAMg==
+  </data>
+ </layer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztklEKgCAQBe1OfXUU+w67/wkqQhBZZUWyLWbgfa6Mj+edc15IyqzMdbdmt9LbtaQshWhuJSTncGY37JwTO7bcc07s2FrP23RHgp7rzpbBeQwlZ81fWjep2WrPnnH+n3Prv3DGGWeccf6Ws2VwHkPJWbOrnk0+sWecccb5XecDfVgXEA==
+  </data>
+ </layer>
+ <layer name="houses" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmE1uwjAQhY1ZlN6AEyA2wAloT0A5QARVf2AHXXI+6AlaTgBdFJa0i8KuLyILy2QSOzMBFn7Sp0wse/xkjew4SuWrVVGqbdEBc7AA72CmHRIJKkpQxtNUF57uLO7BB/gES8Nzg8hPzcfxnCXK8wqswVfiOc0vNRfXd9Yax+rB04NFH+zAD/j1rA3uGtsaYO6hNf8rPI1AC+1tfYzHoIJYg6o+ek4by2lz1QTjpoRnk9jzE3gGL8k6p43ltAUFlam65sXfqPsN2IJHnd1fymvTyFkk/oPXPTiAt5ycXEnkiveVG1ADt/qyZ72rZvqUMmXXmfQ5VkZeuzao3GnfQpQiIr42ndNbkT3o0mtM7RuSc19zfZxb3HPQJ5YS9xz0iYOCJCR9pyvrPmjujS53tcixH3esr3eXPpHy+8aT+BcjJR/P9nvev5UgvorWyj916UvW
+  </data>
+ </layer>
+ <layer name="windows" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1CEKADAMBMGQD/X/v6sK1ESGQJlRJ1ddBFBObhf03rZuA0zwMwAAwI8u/MMA9g==
+  </data>
+ </layer>
+</map>

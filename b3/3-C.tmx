@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <tileset firstgid="593" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A" width="208" height="256"/>
+ </tileset>
+ <imagelayer name="Image Layer 1">
+  <image source="3-C.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl8EOwiAMQJf9oXpX7+p1PwA/pdPrnHrU/Y818WAaBhRKhYQm77AxspemZV3XNk1HYC6OsHZC9JbnYwI7aXStPJ0HWLsiRiHn0DxLO+uZnJaUZ5N77s4l1AbOq/6i0D2q881wlsTSE3NMdU7BSKjjEOcz8CJyceydPN0k63nw2OvrrDJ11hbnnPJsmhNCeHj0C5dzyn7/vHcBLIFVQc5rYANsq3NS5x2wBw6Mzs+Wfu7bvgUSPcgVkmcdV1Tn/zmHzKJ3x17O/2LJWTSlc8gs6mJK7CxRkzFRnWWiOsuEaW7h7PHfeAN0jKia
+  </data>
+ </layer>
+ <layer name="plants" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlk0KhDAMRq23m7UHmdW4cmDAWXmUOaWKDJSSaL/apPHnQRA/W3yGIK0qjKGmC13vV0vsp7JUJJyluZ2Xeh/QWZorOFvgdtYBde6B7wnX5uqPZp+5dzVueR5eQ/65BWfLWHOez0BU+ZR0/jre0bJzCtZmI4YzOc8z9PLm6cnM2Vau6ezDOaC5pnM33X8IBzTXdOb+OWu5ZJ9jQJ2l+xwD6lyKX52n9sDNLVdHdObI4aLtrIm28yPx/FPSOQeo8wgnOtX6
+  </data>
+ </layer>
+ <layer name="houses" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl78vBEEYQHeW6BA0GgQFIggiIv4A9OjONei47iocUWo5Cf5JP2tPdibGl8zlZlZubpJ7yct+mc0mr9jimyyLTwWPhFUcxCHhcKRGyRmeC2s4gZPCqUiNkhSbL/FK2MAlXBauRGqU3OMDVhT/sirmJu7gLm5rf+a9aJV/Mc223d78X7ziG77HDvFA8V/l2Kdil7TPCK2jOJZQ8zStMzibUPMqrWu4nlBzj3TZxwM8jB3iwTGe4GlWdBvtPaPbuNHPW/1MoVnyiHf4hM/40uZ35o5QDTiv5+y5efHsJGbfrgWcp9h8Qet1Ys31/NdOYu41jYDzWM3mjtAMOI/VbO/2ZWYXH/iJXy1mX+zdvszsop934zig3LMv9m5fZnYxx7t5XFDu2Rd7ty8zu9jUbYtaOW8FNJvdfkNr9nzf815za74Bn2xybA==
+  </data>
+ </layer>
+ <layer name="windows" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlE0KwjAQRifeTdADCCLUint1WUVql+oJ/MHD+kELnQ40pApNBubBI5Nk8wVmQmQYhmEYOsjgOtA8UkZJCS+NO7iHK3bGrSJllDzgE76ozXyAb3gWfiJl9KE9swY2k+4+5RmUHJs15RnkXOEN3klPP/M/JOXMBdX9cAqsx2Lm+u94P4TUY7H0ZOb9EFIPpXCtkq0nl0amCt+zUJjZMFJj7rrrr+d95K5W1v+gKfMXbpNCPw==
+  </data>
+ </layer>
+ <layer name="windows 2" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEOABAMBVBu6ALc/xgkBiaxMPBe0rTrT9qGALCWYi/4zc97/1L23LKUODpw3vxD3CDzPuzMAHBLBRTmBc4=
+  </data>
+ </layer>
+</map>

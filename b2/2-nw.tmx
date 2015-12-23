@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="..\RPG Graphics Pack - Tiles - Town v1.1\RPG Graphics Pack - Tiles - Town\town_A.png" width="208" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="..\RPG Graphics Pack - Tiles - Town v1.1\RPG Graphics Pack - Tiles - Town\town_B.png" width="256" height="592"/>
+ </tileset>
+ <imagelayer name="Image Layer 1">
+  <image source="nw.jpg"/>
+ </imagelayer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzFl2FugzAMhXMaegD40Q3+dh1XWA+w3f8ECxKWXp+enYSRLtJTaRLgi+PYZkgpDaRL1riLx2ycf1sbPuu66y3rPWsW/5esz6wV7lNi/jE9s+K9R5i3501ZN8GtmO87t713Atl/5rrA2Jj+xmw2mBy+a9L2X+A+XLdxM6f1s18cYcamuG5J238GVvQDtrfH2pPZWBU377/tu2KNrnswb7wfwG1z0MboI+gzOK7OqGf7WqmYYb6xMd8DZowNxszxArmRb6QxXK8XKzHWYbxAVotvOGdKZTtfaM5E7/XE6/X2BHlKvLNgVn6h7IlzVfz24o7aJzxjnj+Yny+CjX2CObw1qf1HTuU7do1nrMS8Ovby7GHX0bqifK/W4OWUJejn9/PzeK+RD5vyryjfo92VD69OPzNP6Xn/OW5zrGPm6Cxivuec69nTfAGlmKO8zcKmzqPyOdXn2Xl1+lvjP/p3j6ZqO94HFXtLeiWz8htkqNlf7wye1TjWKebWOofjXq2OrJFrDvWdUtNUfKk9f63tLDsjc20Nd7adFYNiiepOlXt6nlmuDzFHed8l3i+yqlzag5nzlfoe8JiZW629BzP3c10Q2R/XhnXHfzBjbRDV7ugL7B+vYi7Ve+z/A83tzezliKiPx9TajjB/7XoUmPG9NTGXOb1vl6PMjwKzl7Mitea/FubvrJ9dXvsFT+C32A==
+  </data>
+ </layer>
+ <layer name="road" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlUEOgCAMBPmueFfv6r+tN+LBdpNSSrKTzH0CGyiFEEIIISQvi1jFdXQIwCbu4jE6BGDm5tfqYMTG2mYPI+7rFC/ADM0olnuJ3IkFZEtZzrxt1vaTrfmvR3uLojeDNmfYjKVZe4vuzo1fZv432dwXNsfg1fwAj4VLKA==
+  </data>
+ </layer>
+ <layer name="buildings" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0jsKwCAQhOHV+yQ3MDlB4j3yuH/rgiuEYMBKi/wfTOUUg6wIAAAAAAAA/mJ3IrcmaBbNatlcfiupdUa5bEvZGG3PoZm8yOy/OyMF23i6vK+2p6XT0/sOYmVPS6en5x2Uf2zpJDsfErs=
+  </data>
+ </layer>
+</map>
