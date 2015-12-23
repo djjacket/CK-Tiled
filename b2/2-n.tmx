@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <imagelayer name="Image Layer 1">
+  <image source="n.jpg"/>
+ </imagelayer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEKACEMA8C+xnf71L0vFGuirZQEcqsyiuAwswHWC7pfRmWuNUf8VWeUudZ5OzLn5NQ7AebnqqecMvcz/yrz42Yv5FqZG5g9AzAfcV69c5njfw0TmfuZmTfMmEm/zA+aPQMwv+uUOdn8AVk1NM4=
+  </data>
+ </layer>
+ <layer name="road" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl0sKgDAMBXNddW/dq6fxktaFUEqqST/Pghl4GwllpG1IifIZfMYoU8F6CGYfF2X51Ogdc8Zgzhg45ytxL6mZ0r6Ucm6Z0n0MnTdBnLKey17JWfrv2voWmDMGc8ZgzhhCh0MQc86Dc+bo2fmJvztz71BpwlkrPrvEfKvlXGOeRN/BlfLnQu1M29t5blHfAnPGYM4Y7p4jfVdq61OcJnqmyQ==
+  </data>
+ </layer>
+ <layer name="fences" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1bEJADAIBVFx9GwQyMCZII3CV8k9sPYKQTO97QVLk2jWoFljYjOQdQbe/at5eXyqmjujWYNmDZo1aM7r/MsAAP+4LVgZXQ==
+  </data>
+ </layer>
+ <layer name="buildings" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl1EOwUAQhre9DE6AVy/iUTxzAxKcACfACXCB4oL+CU1Eamca408rvmSSpjPZfMlst7Mh/BEaSQhNRCt5XzNHboFYRmqYtOHRQXQjPivk1ohNRZz78OghBhGfLXI7xJ7gbOnpELkjYhSpOTxqTgRnS0/PyF0Q1w9rvGD21AtmT73OFmZPGWfLOA1hkt6fs4J3ZWHswyncZi/Oz+/KwtyHQqaXqDD3oeDh7IVllhA0Z+s6HlhmCUFztq7jgWWWEDRn6zoeWGYJQXO2ruOB9VvWnNlnQoysIKpOHZ1z6uSaUyVn63yoOTPvsNb5UHNm3mGt86HmzLzvWOdDzZk5Z/7aP8X7nsLA+57C5pvn8w2qr1WR
+  </data>
+ </layer>
+ <layer name="2nd story buildings" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAfBkVGAAB
+  </data>
+ </layer>
+ <layer name="furniture" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEKwjAUxvH4ddNNEJ0F0Qt4BI/gETyDZ3V0E53cRBdf6GJCH23iw9jy/eBPaZPCo41z9M+OKD1Buj7OPGT+fzTVZU+Xd2l4pmhP25/r23O1RHva/lIzE5GtHcK8PcLIxkn5ltrz0hYy11m6SpfoekO9bmWG/D5t5P4uPaVHdH2hXreyQn6xUeXcuKFJZTevtb6d51+aIy3NFmHeAWFW1kiLiOgNq48qOA==
+  </data>
+ </layer>
+</map>
