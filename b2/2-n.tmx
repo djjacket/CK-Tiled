@@ -16,7 +16,7 @@
  </layer>
  <layer name="road" width="45" height="30">
   <data encoding="base64" compression="zlib">
-   eJztl0sKgDAMBXNddW/dq6fxktaFUEqqST/Pghl4GwllpG1IifIZfMYoU8F6CGYfF2X51Ogdc8Zgzhg45ytxL6mZ0r6Ucm6Z0n0MnTdBnLKey17JWfrv2voWmDMGc8ZgzhhCh0MQc86Dc+bo2fmJvztz71BpwlkrPrvEfKvlXGOeRN/BlfLnQu1M29t5blHfAnPGYM4Y7p4jfVdq61OcJnqmyQ==
+   eJztl90KgCAMRqW3re6z++ppesn0IpAxa/5sWe3AdxNDTqhjGpNP7zKAjAXrSTC5WJD5UaN71Jkf273P2fMVZx/YS2qmtC/FnDlTuo+h80qITazHslVypv57aj0H6iyDOsugzjKEDjsh6pwH5ozRsvMVf3fG3qHUhLMWPLsG+VbLucY8KX0HF5M/F6bOtK2dZ456DtRZBnWW4ew51Hdlan2MA7CAp0I=
   </data>
  </layer>
  <layer name="fences" width="45" height="30">
@@ -36,7 +36,7 @@
  </layer>
  <layer name="furniture" width="45" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0jEKwjAUxvH4ddNNEJ0F0Qt4BI/gETyDZ3V0E53cRBdf6GJCH23iw9jy/eBPaZPCo41z9M+OKD1Buj7OPGT+fzTVZU+Xd2l4pmhP25/r23O1RHva/lIzE5GtHcK8PcLIxkn5ltrz0hYy11m6SpfoekO9bmWG/D5t5P4uPaVHdH2hXreyQn6xUeXcuKFJZTevtb6d51+aIy3NFmHeAWFW1kiLiOgNq48qOA==
+   eJzt0jEKwjAUxvH4ddNNEDsLohfwCB7BI3gGz+rYTXRyE118oYsJfbSNj4aW7wd/QpsUHm2dS3NB4oMZceZhjHHmKfPfo6kuZ7o8S9OzRHva+VT//lcbtKedzzUzEdk6Isw7IYxsXJV3qd3PrZS5Kuku3aL1gXrfygrp/drL9VN6S69o/aDet7JFerFZ4dy8oUVhN6+1sf3PQ1qjX5oDwrwzwqzs0C8ioi8TYysq
   </data>
  </layer>
 </map>
