@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="town_A" tilewidth="16" tileheight="16" tilecount="208">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_A.png" width="208" height="256"/>
+ </tileset>
+ <tileset firstgid="209" name="town_B" tilewidth="16" tileheight="16" tilecount="592">
+  <image source="../RPG Graphics Pack - Tiles - Town v1.1/RPG Graphics Pack - Tiles - Town/town_B.png" width="256" height="592"/>
+ </tileset>
+ <imagelayer name="Image Layer 1">
+  <image source="ne.jpg"/>
+ </imagelayer>
+ <layer name="grass" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzFmFFuwyAQRDkNPoDzkdbpZ9rUR+j9DxIieaXRaHaBYLtII8sYw/N6gV1ySmmqKIt7Fj6/Fn0UfRYtRbeir+QXbn8lcV8zjZnpehF8/M4EbS87MN9Bqi/mm+lqzLMQvofvjDLfNt5v55kxTdSPcaKduQ0+n05kRjszT42Z/ehMO9tYzIz/PGrD16OZjyges7feeO17v/0IZm8Oq/ZeH2czs33fYV63ulEtjcxoY1xvepl/dtCjw87GW9s3j7LzAsJic96+53cbC22MUnu3xztq50fSvtFbWpnt+23sZVD/wTyqM5lbfBbXJrVecZ0qHAN4XK97ng/cNvLXGrO33nrl3X2E6yP7MrOKR1UsvSezivtb1gQbS/mEymewqHYRs4r/FTPOJayzNaHmv5wvMDPnMYrZ84uIOVo/+P8rn6jlBZz7jDDnFBfM/zi2V3mk589/1Ecrs4qhWwrb1fMV+/9RP8iMLD0xdCuzsivn4LW1Dt+3fx7Fyb3Myn5sX7a/Nwfx+7w5iKwrqIeZY108M/D8OsqFsa9aPqXU4s/RnOPvqDFz7GnrhtJdqJUZ7cJnBpmeqTMDE8fZ6qyIxbF3r53Zn3k/47MbZlZ7Fp7JRfPPU83O3p6g6tD2yIzxgMmz6dqgJ2px45g=
+  </data>
+ </layer>
+ <layer name="road" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1jkKgDAURdGYhbmMLEFQe7V3KF2zX1BMoRDDHwi8A7ex8UEgxDkAsNT4p6/vISoW/HvSWqpjrE/4536Va6BGxiaFzTO1MKS5mct9Xtgsq+TNZ9z3jJTc+yflXKTEm//cN6vFWAAAIZvCu7o0dWW9AACA1wFYwUM0
+  </data>
+ </layer>
+ <layer name="buildings" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmNEJwjAQhtO+qMNUJ1AnUJdQt1AnUCdQN/BVnaA6gTqBOoH65i80EEobDi4pDdwH39vd8VMSwlWp6kgipdo5OxFvZor+M7xY5lBqyhigZ5j5z9qDfWbmK/pv8G6ZQ6mh0HWU+YH+J3xZ5lBqKLjK/Eb/B34tcyg1FPQ5GTHnNGKlmrAV82oEQRAEwRUzvG1zuGC+cVWyRNYV3GfZQ8ivM6/hNnMXUOYDPMJTQJlDYRPIeTDxfR6K9kqXO6YP9I5TJnf38UFR5sTYj7m7jw+KMtfx25pI5moIMbP5P6rO985kjHyTnNOaZ/4Biqw8qg==
+  </data>
+ </layer>
+ <layer name="2nd story buildings" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztljEOAUEYRmeOggIlCpRsgUaCAiUKHMI6AU6AG2hxO0+yjQbF/JGJ7yUv2erbV0zxOyfeUfTOlbCMff/rmu+o09nAZiS9Tzq0drEXUfOY1glOI2pe0rrCtX/9FkIIIYQQ/0uOezCPhUB34YadFLeGd2aF7SrWAv1jx84eL1m7RX+LvTYmgZsPeMo8B24esDfEkUHzFW94D9w8Y2+OC4PmWDgavQdLrN6DEJ94AGbTG54=
+  </data>
+ </layer>
+ <layer name="furniture" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlsENwjAMRdMK2AOYAJgAmAA4Fwk4lzGAU0+sRTeAWTASVS3LTX2o7ETKk3ypEunV+XHrXD/PXLAoMJKzDslZhxidh+LOvPsj8H4kZx1idT4ixyKPw/mKHMsInBM6vCEHH6MsFOQu/ahQdfGCPTWzV4OS3KXKyZy5vRZgV8uzl0J725x9KPgyHALTzLkZ1Dxrn3E5xM7cO2myANcl1Crzr8PZkNytW97W0OzAdQ918DjTWSGdG0PC5aELn6+mM83DCM5vDDVhzpH6WWV5Da4bqC3pczNzsRftp9V3oivDzczFXqHMuBO4nqEuf+e+zFrngkPqHML/gwTrbHwBeNhKmw==
+  </data>
+ </layer>
+ <layer name="Tile Layer 6" width="45" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt090NQDAUBeC6NYQRLMUGvFvAKPbys4CfAZxHafRBRPVyvuRE2j44UdcYCiWTa/vuufsMIfe8y7fvnrtPor84zmnImb3jOKec2WcU+K6l+NcxqtCvFv+aSJuC/+/n9LjTARmRScn9zui5ICuyKemcWGMEsUhq325DdF2jZNZIp1bOE7Mu8n5nnui8A0cREe0=
+  </data>
+ </layer>
+</map>
